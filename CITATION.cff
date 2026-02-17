@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this TCDS OmniKernel software, please cite it as below."
+authors:
+- family-names: "Carrasco Ozuna"
+  given-names: "Genaro"
+  orcid: "https://orcid.org/0009-0005-6358-9910"
+title: "TCDS Unified Repository: Synchronic Chromodynamics"
+version: 5.0.0
+date-released: 2026-02-16

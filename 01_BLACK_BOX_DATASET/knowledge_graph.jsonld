@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "ScholarlyArticle",
+      "name": "TCDS Principia Coherentia",
+      "author": "Genaro Carrasco Ozuna",
+      "description": "Formal proof of the Synchronon particle (σ) and Causal Entropy.",
+      "keywords": "Synchronon, OmniKernel, TCDS"
+    }
+  ]
+}
+{
+      "@type": "ScholarlyArticle",
+      "@id": "https://github.com/geozunac3536-jpg/TCDS-UNIFIED-REPO/blob/main/01_BLACK_BOX_DATASET/dataset/TCDS_Hamiltonian_3_Force_Model.pdf",
+      "name": "Modelo TCDS de Tres Fuerzas (Hamiltonian Version)",
+      "headline": "Parsimonious Unification of Sigma Force via Higgs Portal and PPN Formalism",
+      "author": {
+        "@type": "Person",
+        "name": "Genaro Carrasco Ozuna"
+      },
+      "description": "Mathematical derivation of the Sigma Force using Hamiltonian mechanics, defining the scalar mass matrix and electroweak corrections.",
+      "keywords": "Hamiltonian, Higgs Portal, Sigma Force, TCDS, Quantum Field Theory",
+      "encodingFormat": "application/pdf"
+    }
